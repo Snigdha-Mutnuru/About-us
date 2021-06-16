@@ -17,7 +17,7 @@ html,body{
     color:black;
 }
 #HOME{
-    background: url(img/img3.png) no-repeat center center fixed;
+    background: url(img3.png) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -40,7 +40,7 @@ html,body{
     width: 100%;
 }
 #fixed{
-    background: url(img/do3.png) no-repeat center center fixed;
+    background: url(do3.png) no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;
