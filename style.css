@@ -66,3 +66,24 @@ footer{
     font-size: 500%;
     font-weight: 700;
 }
+ .breadcrumbs-section{
+    background-color: #f5f5f5;
+}
+.services{
+    background-color:lightblue;
+    color: black;
+}
+.online.img{
+    width: 150px;
+}
+.top-footer a{
+    color:white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color:white;
+    font-weight: 600;
+}
+.icon1{
+    font-size: 200%;
+}
