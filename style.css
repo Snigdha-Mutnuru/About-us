@@ -33,6 +33,7 @@ html,body{
     font-size: 500%;
     font-weight: 700;
 }
+
 .padding{
     padding: 80px 0;
 }
@@ -86,4 +87,16 @@ footer{
 }
 .icon1{
     font-size: 200%;
+}
+#ABOUT{
+    background: url(back.png) no-repeat center center fixed;
+    background-color: lightblue;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+.ro p{
+    font-size: large;
 }
